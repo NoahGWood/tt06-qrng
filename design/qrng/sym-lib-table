@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "photonic_structures")(type "KiCad")(uri "${KIPRJMOD}/photonic_structures.kicad_sym")(options "")(descr ""))
+)
