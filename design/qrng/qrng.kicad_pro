@@ -326,6 +326,50 @@
     [
       "9a0cc8cf-76e3-492b-81c7-e66f0506b32b",
       ""
+    ],
+    [
+      "1b90abc1-5994-4d04-a6ae-ab329683fbf9",
+      "Measure"
+    ],
+    [
+      "5704d837-9105-4325-8481-4a9807321197",
+      "UnitaryGates"
+    ],
+    [
+      "c5a5b6b4-9310-4151-af06-ad9efb85e739",
+      "Rotation"
+    ],
+    [
+      "2816dd97-2141-4e88-841d-bad2cfe1fd60",
+      "SRLatch"
+    ],
+    [
+      "9f71cf7e-3464-48c9-aa8b-a36a578339c8",
+      "SRLatch1"
+    ],
+    [
+      "6ff5aaeb-660b-407b-bd9c-73b6a63d2bc9",
+      "SRLatch2"
+    ],
+    [
+      "287999e1-a255-46a1-8f36-b91c3ed03106",
+      "SRLatch3"
+    ],
+    [
+      "2ee9f552-254a-43f1-9a63-6492e96154e7",
+      "SRLatch4"
+    ],
+    [
+      "a3d9e700-82bd-4b96-a895-8b5ee4f660f2",
+      "SRLatch5"
+    ],
+    [
+      "03e9b1f3-7388-4729-89ee-79d74b802073",
+      "SRLatch6"
+    ],
+    [
+      "13094724-9d27-4241-a7cd-d0ee76a07a7e",
+      "SRLatch7"
     ]
   ],
   "text_variables": {}

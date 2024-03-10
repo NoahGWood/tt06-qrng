@@ -2,7 +2,8 @@
 
 ## Start Magic VLSI:
 
-magic -T sky130A-GDS
+1. magic -T sky130A
+2. def read src/tt_block_1x1_pg.def
 
 ## Write GDS Files
 
@@ -12,4 +13,9 @@ In magic GUI:
 ## Write LEF Files
 
 In magic terminal:
-	lef writeall lef/tt_um_noahgwood_qrng.lef
+	lef write lef/tt_um_noahgwood_qrng.lef
+
+## ENABLE ACTIONS IN GITHUB
+
+Keep actions disabled unless/until we need to build/validate, no sense in wasting compute time. 
+To enable, go [here](https://github.com/NoahGWood/tt06-qrng/settings/actions) and set "Allow all actions and reusable workflows"
