@@ -355,9 +355,6 @@
     (pin "1" (uuid c79caa2f-7f52-4fb3-8b3c-e2d1a785ae94))
     (instances
       (project "qrng"
-        (path "/9a0cc8cf-76e3-492b-81c7-e66f0506b32b/5704d837-9105-4325-8481-4a9807321197/c5a5b6b4-9310-4151-af06-ad9efb85e739"
-          (reference "#PWR010") (unit 1)
-        )
         (path "/9a0cc8cf-76e3-492b-81c7-e66f0506b32b/5704d837-9105-4325-8481-4a9807321197/c5a5b6b4-9310-4151-af06-ad9efb85e739/2816dd97-2141-4e88-841d-bad2cfe1fd60"
           (reference "#PWR010") (unit 1)
         )
@@ -389,7 +386,7 @@
   (symbol (lib_id "Simulation_SPICE:NMOS") (at 112.395 90.805 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 40317f73-beae-4e5e-8f1a-79575679f23e)
-    (property "Reference" "Q11" (at 118.11 89.535 0)
+    (property "Reference" "Q12" (at 118.11 89.535 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "NMOS" (at 118.11 92.075 0)
@@ -415,9 +412,6 @@
     (pin "3" (uuid 97f89243-171b-4982-8418-8a4a1550aa95))
     (instances
       (project "qrng"
-        (path "/9a0cc8cf-76e3-492b-81c7-e66f0506b32b/5704d837-9105-4325-8481-4a9807321197/c5a5b6b4-9310-4151-af06-ad9efb85e739"
-          (reference "Q11") (unit 1)
-        )
         (path "/9a0cc8cf-76e3-492b-81c7-e66f0506b32b/5704d837-9105-4325-8481-4a9807321197/c5a5b6b4-9310-4151-af06-ad9efb85e739/2816dd97-2141-4e88-841d-bad2cfe1fd60"
           (reference "Q12") (unit 1)
         )
@@ -475,9 +469,6 @@
     (pin "3" (uuid 22ec5658-01f3-41b2-a490-c91c5231b291))
     (instances
       (project "qrng"
-        (path "/9a0cc8cf-76e3-492b-81c7-e66f0506b32b/5704d837-9105-4325-8481-4a9807321197/c5a5b6b4-9310-4151-af06-ad9efb85e739"
-          (reference "Q13") (unit 1)
-        )
         (path "/9a0cc8cf-76e3-492b-81c7-e66f0506b32b/5704d837-9105-4325-8481-4a9807321197/c5a5b6b4-9310-4151-af06-ad9efb85e739/2816dd97-2141-4e88-841d-bad2cfe1fd60"
           (reference "Q13") (unit 1)
         )
@@ -509,7 +500,7 @@
   (symbol (lib_id "Simulation_SPICE:NMOS") (at 99.695 114.3 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f84369a2-8be1-488e-95db-7daa68c8afc2)
-    (property "Reference" "Q12" (at 105.41 113.03 0)
+    (property "Reference" "Q11" (at 105.41 113.03 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "NMOS" (at 105.41 115.57 0)
@@ -535,9 +526,6 @@
     (pin "3" (uuid bbe84a72-befa-4819-a255-d12b9be384e8))
     (instances
       (project "qrng"
-        (path "/9a0cc8cf-76e3-492b-81c7-e66f0506b32b/5704d837-9105-4325-8481-4a9807321197/c5a5b6b4-9310-4151-af06-ad9efb85e739"
-          (reference "Q12") (unit 1)
-        )
         (path "/9a0cc8cf-76e3-492b-81c7-e66f0506b32b/5704d837-9105-4325-8481-4a9807321197/c5a5b6b4-9310-4151-af06-ad9efb85e739/2816dd97-2141-4e88-841d-bad2cfe1fd60"
           (reference "Q11") (unit 1)
         )
@@ -595,9 +583,6 @@
     (pin "3" (uuid 0d1e1ccc-4abf-49ac-afa9-749b7a808943))
     (instances
       (project "qrng"
-        (path "/9a0cc8cf-76e3-492b-81c7-e66f0506b32b/5704d837-9105-4325-8481-4a9807321197/c5a5b6b4-9310-4151-af06-ad9efb85e739"
-          (reference "Q10") (unit 1)
-        )
         (path "/9a0cc8cf-76e3-492b-81c7-e66f0506b32b/5704d837-9105-4325-8481-4a9807321197/c5a5b6b4-9310-4151-af06-ad9efb85e739/2816dd97-2141-4e88-841d-bad2cfe1fd60"
           (reference "Q10") (unit 1)
         )

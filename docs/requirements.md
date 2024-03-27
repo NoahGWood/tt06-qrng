@@ -34,7 +34,7 @@ For the Skywater 130nm PDK, design, implement, and validate:
   - [x] CMOS LED
   - [x] CMOS Photo Detector
   - [x] CMOS Beam Splitter
-  - [ ] QRNG
+  - [x] QRNG
   - [x] Hadamard
   - [x] Pauli-X
   - [x] Pauli-Y
@@ -147,6 +147,6 @@ List any assumptions made during the requirements gathering process, including d
 | Date       | Revisions | Author    | Comment     |
 | ---------- | --------- | --------- | ----------- |
 | 03/07/2024 | 1         | NoahGWood | Initial Doc |
-|            |           |           |             |
+| 03/26/2024 | 1         | NoahGWood | Update ToDo |
 |            |           |           |             |
 |            |           |           |             |
